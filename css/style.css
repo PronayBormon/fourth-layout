@@ -1,0 +1,85 @@
+
+.space{
+    height: 20px;
+}
+.logo_slogan{
+    background-color: aqua;
+    height: 100px;
+    text-align: center;
+}
+.head{
+    background-color:brown;
+    height: 300px;
+    text-align: center;
+}
+.menu{
+    background-color: chartreuse;
+    height: 100px;
+    width: 40%;
+    float: left;
+    text-align: center;
+}
+.menus{
+overflow: hidden;
+
+}
+.item_one{
+background-color: chocolate;
+height: 100px;
+width: 20%;
+float: left;
+}
+
+.item_two{
+    height: 100px;
+    width: 20%;
+    background-color: cyan;
+    float: left;
+}
+
+.item_three{
+    height: 100px;
+    width: 20%;
+    background-color: darkgreen;
+    float: right;
+}
+
+.about_adds{
+overflow: hidden;
+}
+
+.about{
+height: 200px;
+width: 70%;
+background-color: darkred;
+float: left;
+text-align: center;
+}
+
+.adds{
+height: 200px;
+width: 30%;
+background-color: deeppink;
+float: right;
+text-align: center;
+}
+
+.upper{
+height: 50%;
+background-color: blue;
+text-align: center;
+
+}
+
+.lower{
+height: 50%;
+background-color: crimson;
+text-align: center;
+}
+
+.foot{
+background-color: darkgreen;
+height: 100px;
+text-align: center;
+
+}
